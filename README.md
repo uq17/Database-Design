@@ -9,4 +9,4 @@ This entity relationship diagram displays the relationships between student, fac
 ## Database Model for Patient-Physician Portal
 This database model was developed for a theoretical patient-physician portal and implements the most efficient data types and entity relationships for this system. The ERD was developed using T-SQL and Microsoft SQL Server Management Studio and displays the various relationships between entities in the database. Download the SQL file here and view the ERD screenshot below.
 
-![P2](P2_ERD.png)
+![P2](P2_ERD.PNG)
