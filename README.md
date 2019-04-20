@@ -1,8 +1,8 @@
-# Database-Design
+# Database Design
 This repository contains entity relationship diagrams of database models created using MySQL, SQL Workbench, and Microsoft SQL Server Management Studio. For each ERD, business rules of users were carefully analyzed to create entities and entity relationships. These data models are meant to reflect the responsibilities of a database administrator managing an IT enterprise. 
 
 ## Database Model for Patient-Physician Portal
-This database model was developed for a theoretical patient-physician portal and implements the most efficient data types and entity relationships for this system. The ERD was developed using T-SQL and Microsoft SQL Server Management Studio and displays the various relationships between entities in the database. Download the SQL file here and view the ERD screenshot below.
+This database model was developed for a theoretical patient-physician portal and implements the most efficient data types and entity relationships for this system. The ERD was developed using T-SQL and Microsoft SQL Server Management Studio and displays the various relationships between entities in the database. Download the SQL file [here](P2.sql) and view the ERD screenshot below.
 
 ![P2](P2_ERD.PNG)
 
